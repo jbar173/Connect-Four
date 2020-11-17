@@ -1,0 +1,13 @@
+.board td{
+  background-color: rgb(128, 128, 128);
+  border: 5px solid black;
+  border-radius: 45px;
+  height: 80px;
+  width: 80px;
+}
+
+.page-header{
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 1.5em;
+}
